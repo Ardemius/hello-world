@@ -1,0 +1,3 @@
+= README for the Hello World Git project
+
+Here is a first commit in the repo
